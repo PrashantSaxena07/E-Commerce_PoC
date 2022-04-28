@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "775544747768",
+    "project_id": "e-comapp-129da",
+    "storage_bucket": "e-comapp-129da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775544747768:android:1647bda6a5e54b90fd6d0d",
+        "android_client_info": {
+          "package_name": "com.example.foot_wear_v6001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775544747768-oti92v1v6rtiavhu9rvaua2p5sikpb6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foot_wear_v6001",
+            "certificate_hash": "9cd97ee5f4836ae7dc384e1b02d34ebaea1c0e28"
+          }
+        },
+        {
+          "client_id": "775544747768-tnj83hrofdjlhkb3v09l4prkf9tab4mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJggK0y7mzQCN2A0Z_RDPQCM0qn-6yZx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775544747768-tnj83hrofdjlhkb3v09l4prkf9tab4mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775544747768:android:10526066cf94d15efd6d0d",
+        "android_client_info": {
+          "package_name": "com.example.grocery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775544747768-tnj83hrofdjlhkb3v09l4prkf9tab4mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJggK0y7mzQCN2A0Z_RDPQCM0qn-6yZx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775544747768-tnj83hrofdjlhkb3v09l4prkf9tab4mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
